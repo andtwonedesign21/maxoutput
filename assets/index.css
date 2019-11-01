@@ -1,0 +1,508 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+}
+
+#box {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    background-image:url("img/maxoutput.com.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    min-width: 2485px;
+    min-height: 1221px;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#text {
+    float: left;
+    font-size: 1em;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 11.473515%;
+    margin-top: 46px;
+    clear: both;
+    min-height: 170px;
+    overflow: visible;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#textspan1 {
+    float: none;
+    font-size: 3em;
+    line-height: 1em;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+    font-weight: 600;
+}
+
+#text1 {
+    float: left;
+    font-size: 1em;
+    width: 80%;
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 11.473515%;
+    margin-top: 32px;
+    clear: both;
+    min-height: 170px;
+    color: rgb(0, 0, 60);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+#textspan2 {
+    float: none;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font-family: 'Futura Std';
+    font-weight: 400;
+    text-indent: 0px;
+}
+
+#textspan {
+    float: none;
+    font-size: 3.4em;
+    line-height: 1em;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+    font-weight: 600;
+}
+
+#Our-mission-cover {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+    min-width: 33%;
+    margin-right: 0%;
+}
+
+#text2 {
+    float: left;
+    font-size: 2.6em;
+    width: 81.568035%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -47.97%;
+    margin-top: 40px;
+    clear: none;
+    min-height: 80px;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+    min-width: 0px;
+    margin-right: 0%;
+}
+
+#text3 {
+    float: left;
+    font-size: 1em;
+    width: 76.667953%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -81.200201%;
+    margin-top: 107px;
+    clear: none;
+    min-height: 512px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    min-width: 0px;
+    margin-right: 0%;
+}
+
+#textspan3 {
+    float: none;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+}
+
+#Our_Mission {
+    float: left;
+    height: auto;
+    margin-left: 11.479354%;
+    margin-top: 44px;
+    clear: both;
+    width: 29.999497%;
+}
+
+#Our-_vision-cover {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: -6.57%;
+    margin-top: 39px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#text4 {
+    float: left;
+    font-size: 2.6em;
+    width: 63.82%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -52.25%;
+    margin-top: 84px;
+    clear: none;
+    min-height: 60px;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 5;
+}
+
+#text5 {
+    float: left;
+    font-size: 1em;
+    width: 63.637969%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -63.32%;
+    margin-top: 148px;
+    clear: none;
+    min-height: 479px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 6;
+    min-width: 0px;
+}
+
+#textspan4 {
+    float: none;
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+}
+
+#Our_Vision {
+    float: left;
+    height: auto;
+    margin-left: 1.7%;
+    margin-top: 2px;
+    clear: none;
+    width: 23.14107%;
+}
+
+#Requestaquote {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0.00291367%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1;
+}
+
+#text6 {
+    float: left;
+    font-size: 2.6em;
+    width: 85.827919%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: -55.837534%;
+    margin-top: 37px;
+    clear: none;
+    min-height: 59px;
+    color: rgb(0, 0, 60);
+    font-family: 'Futura Std';
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+#Get_a_Quote1 {
+    float: left;
+    height: 153px;
+    font-size: 3.1em;
+    margin-left: -87.447918%;
+    margin-top: 123px;
+    clear: none;
+    width: 99.65036%;
+    color: rgb(255, 255, 255);
+    background-image:-webkit-linear-gradient(90deg, rgb(255, 0, 0) 0%, rgb(238, 33, 91) 100%);
+    background-image: linear-gradient(0deg, rgb(255, 0, 0) 0%, rgb(238, 33, 91) 100%);
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    background-color: rgb(229, 233, 232);
+    font-family: 'Futura Std';
+    font-weight: 700;
+    margin-right: 0%;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 4;
+    display: block;
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+#Get_a_Quote {
+    float: left;
+    height: auto;
+    margin-left: 0.18%;
+    margin-top: 39px;
+    clear: none;
+    width: 20.039822%;
+}
+
+#MX-PIC1 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: -20.08%;
+    margin-top: 373px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#MX-PIC2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: -6.774337%;
+    margin-top: 373px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#Get_a_Quote1:hover {
+    background-image:-webkit-linear-gradient(90deg, rgb(0, 0, 60) 0%, rgb(0, 0, 60) 100%);
+    background-image: linear-gradient(0deg, rgb(0, 0, 60) 0%, rgb(0, 0, 60) 100%);
+    background-attachment: scroll;
+    -webkit-background-size: auto;
+    background-size: auto;
+    background-color: rgb(229, 233, 232);
+    background-position: 0% 0%;
+    background-repeat: repeat repeat;
+}
+
+@media only screen and (max-width: 1921px) {
+    #text2 {
+        margin-left: 5.2%;
+        margin-top: -606px;
+        width: 60.27%;
+    }
+
+    #text3 {
+        margin-top: -547px;
+        margin-left: 5.4%;
+        width: 70.67%;
+    }
+
+    #Our-_vision-cover {
+        margin-left: -7.17%;
+    }
+
+    #text4 {
+        margin-top: 93px;
+        margin-left: -68.45%;
+    }
+
+    #text5 {
+        width: 76.14%;
+        margin-left: -67.32%;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    #text2 {
+        margin-left: -81.008397%;
+        margin-top: 37px;
+        clear: none;
+    }
+
+    #text3 {
+        margin-left: -80.338787%;
+        margin-top: 89px;
+        width: 74.07%;
+        clear: none;
+    }
+
+    #Our-_vision-cover {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #Our-mission-cover {
+        min-width: 7.34%;
+        max-width: 100%;
+    }
+
+    #Our_Mission {
+        margin-top: 44px;
+        margin-left: 10.94%;
+        clear: none;
+    }
+
+    #text1 {
+        margin-top: 32px;
+        margin-left: 11.472811%;
+        clear: both;
+    }
+
+    #text {
+        margin-top: 63px;
+        margin-left: 11.472811%;
+        clear: both;
+    }
+
+    #text4 {
+        min-height: 52px;
+        width: 70.091832%;
+        margin-left: -88.382132%;
+        margin-top: 36px;
+        clear: none;
+        margin-right: 0%;
+    }
+
+    #text5 {
+        min-height: 320px;
+        margin-left: -87.345158%;
+        margin-top: 86px;
+        clear: none;
+        width: 78.820901%;
+        margin-right: 0%;
+    }
+
+    #Our_Vision {
+        float: left;
+        height: auto;
+        margin-left: -0.51250869%;
+        margin-top: 44px;
+        clear: none;
+        width: 23.14107%;
+    }
+
+    #Get_a_Quote {
+        margin-top: -671px;
+        margin-left: 65.58%;
+    }
+
+    #Get_a_Quote1 {
+        width: 112%;
+        font-size: 2.2em;
+        height: 117px;
+        margin-top: -280px;
+        margin-left: 9.742617%;
+        clear: none;
+        line-height: 0em;
+        letter-spacing: 0.04em;
+        background-image:-webkit-linear-gradient(0deg, rgb(255, 0, 0) 0%, rgb(238, 33, 91) 100%);
+        background-image: linear-gradient(90deg, rgb(255, 0, 0) 0%, rgb(238, 33, 91) 100%);
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        background-color: rgb(229, 233, 232);
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+
+    #text6 {
+        width: 106.53%;
+        margin-top: -344.36px;
+        margin-left: 15.432132%;
+        clear: both;
+    }
+
+    #Requestaquote {
+        margin-top: 3px;
+        margin-left: 0%;
+        clear: none;
+        width: 381px;
+        max-width: none;
+    }
+
+    #MX-PIC1 {
+        margin-left: 40.32%;
+        margin-top: -247px;
+        width: 360px;
+    }
+
+    #MX-PIC2 {
+        margin-left: 67.03%;
+        margin-top: -247px;
+        width: 359px;
+    }
+
+    #Get_a_Quote1:active {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background-image:-webkit-linear-gradient(0deg, rgb(255, 0, 0) 0%, rgb(0, 0, 60) 100%);
+        background-image: linear-gradient(90deg, rgb(255, 0, 0) 0%, rgb(0, 0, 60) 100%);
+        background-attachment: scroll;
+        -webkit-background-size: auto;
+        background-size: auto;
+        background-color: rgba(229, 233, 232, 0);
+        background-position: 0% 0%;
+        background-repeat: repeat repeat;
+    }
+}
+
